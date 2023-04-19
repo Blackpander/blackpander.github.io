@@ -97,9 +97,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: Blackpander/blackpander.github.io # <gh-username>/<repo>
-    repo_id: 629648605
-    category: General
-    category_id: DIC_kwDOJYes3c4CV34O
+    repo_id: R_kgDOJYes3Q
+    category: comments
+    category_id: DIC_kwDOJYes3c4CV5lo
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
