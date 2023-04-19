@@ -13,9 +13,10 @@ CyberChef is the Cyber Swiss Army Knife web app for encryption, encoding, compre
 Before we can start, there are some things you need to have in place to set this up. I will make comments in the docker-compose.yaml for optional stuff which is only for use with Traefik.
 
 # Setup
-> You need Docker on your system (Docker for Desktop or any other version which comes with docker-compose)
-> Some knowledge about Docker and Docker Compose
-> A machine, server or NAS
+>- You need Docker on your system (with docker-compose installed)
+>- Some knowledge about Docker and Docker Compose
+>- A machine, server or NAS
+{: .prompt-tip }
 
 For deployment I use Portainer, which is very handy for doing stuff like this. I use a Synology NAS with Docker and Portainer which is a great combo.
 Now I will show two examples of a docker-compose.yaml, one for use with Traefik and one without.
